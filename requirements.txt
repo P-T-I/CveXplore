@@ -8,3 +8,4 @@ ijson==3.1.4
 ansicolors==1.1.8
 pandas==1.4.3
 dicttoxml==1.7.4
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
